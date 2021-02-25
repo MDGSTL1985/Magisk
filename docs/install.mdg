@@ -120,7 +120,7 @@ If you are stuck in a bootloop, agree to do a factory reset if promted.
 - If your device does **NOT** have boot ramdisk, reboot to recovery now to boot Android with Magisk (reason stated in [Magisk in Recovery](#magisk-in-recovery)).
 - Although Magisk is installed, it still need some additional setup. Please connect to the Internet.
 - Install the latest Magisk app and launch the app. It should show a dialog asking for additional setups. Let it do its job and the app will automatically reboot your device.
-- Voila! Enjoy Magisk 😃
+- Voila! Enjoy Magisk 
 
 ### Additional Notes
 
